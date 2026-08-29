@@ -1,0 +1,31 @@
+worker_id,worker_name,department,zone,task_type,shift_hours,repetitive_index,manual_handling_index,posture_exposure_index,force_index,vibration_index,task_pacing_index,discomfort_reports_90d,prior_injury_reports,breaks_missed_per_shift
+W001,Worker 01,Warehouse,South,Manual Handling,14,0.581,0.527,0.762,0.685,0.424,0.833,5,4,5
+W002,Worker 02,Packaging,East,Keyboard Intensive,11,0.891,0.263,0.795,0.403,0.748,0.262,3,0,2
+W003,Worker 03,Customer Support,West,Picking,11,0.62,0.819,0.405,0.54,0.863,0.586,7,5,4
+W004,Worker 04,Quality,Central,Packing,8,0.775,0.818,0.651,0.39,0.886,0.868,5,0,0
+W005,Worker 05,Maintenance,North,Inspection,13,0.557,0.278,0.165,0.659,0.444,0.535,6,3,2
+W006,Worker 06,Assembly,South,Equipment Setup,13,0.699,0.641,0.785,0.366,0.551,0.53,0,3,0
+W007,Worker 07,Warehouse,East,Repetitive Assembly,14,0.85,0.517,0.212,0.475,0.665,0.384,6,0,3
+W008,Worker 08,Packaging,West,Manual Handling,13,0.269,0.682,0.353,0.831,0.595,0.458,0,1,1
+W009,Worker 09,Customer Support,Central,Keyboard Intensive,12,0.875,0.949,0.76,0.767,0.611,0.332,1,5,4
+W010,Worker 10,Quality,North,Picking,6,0.822,0.55,0.742,0.811,0.857,0.308,7,4,4
+W011,Worker 11,Maintenance,South,Packing,14,0.617,0.542,0.366,0.382,0.316,0.602,3,5,5
+W012,Worker 12,Assembly,East,Inspection,14,0.771,0.784,0.286,0.715,0.376,0.552,7,5,1
+W013,Worker 13,Warehouse,West,Equipment Setup,14,0.805,0.913,0.187,0.47,0.52,0.881,0,4,2
+W014,Worker 14,Packaging,Central,Repetitive Assembly,9,0.656,0.893,0.724,0.355,0.855,0.734,2,0,2
+W015,Worker 15,Customer Support,North,Manual Handling,8,0.605,0.325,0.741,0.265,0.315,0.603,6,1,4
+W016,Worker 16,Quality,South,Keyboard Intensive,10,0.374,0.875,0.39,0.335,0.802,0.688,5,2,2
+W017,Worker 17,Maintenance,East,Picking,6,0.56,0.511,0.753,0.249,0.652,0.188,5,4,5
+W018,Worker 18,Assembly,West,Packing,7,0.262,0.673,0.292,0.446,0.743,0.926,1,4,5
+W019,Worker 19,Warehouse,Central,Inspection,5,0.523,0.916,0.855,0.324,0.639,0.474,2,0,5
+W020,Worker 20,Packaging,North,Equipment Setup,12,0.806,0.908,0.261,0.685,0.163,0.567,4,5,5
+W021,Worker 21,Customer Support,South,Repetitive Assembly,5,0.634,0.741,0.64,0.244,0.592,0.697,0,3,4
+W022,Worker 22,Quality,East,Manual Handling,14,0.756,0.709,0.24,0.467,0.25,0.601,2,3,4
+W023,Worker 23,Maintenance,West,Keyboard Intensive,8,0.451,0.733,0.242,0.579,0.18,0.891,7,3,2
+W024,Worker 24,Assembly,Central,Picking,13,0.331,0.879,0.907,0.696,0.887,0.75,4,3,1
+W025,Worker 25,Warehouse,North,Packing,14,0.355,0.855,0.39,0.42,0.357,0.355,4,2,2
+W026,Worker 26,Packaging,South,Inspection,5,0.271,0.931,0.441,0.894,0.65,0.803,1,2,0
+W027,Worker 27,Customer Support,East,Equipment Setup,13,0.358,0.51,0.232,0.567,0.748,0.869,3,4,5
+W028,Worker 28,Quality,West,Repetitive Assembly,6,0.734,0.443,0.245,0.622,0.228,0.7,6,5,0
+W029,Worker 29,Maintenance,Central,Manual Handling,7,0.762,0.333,0.285,0.215,0.149,0.654,7,5,5
+W030,Worker 30,Assembly,North,Keyboard Intensive,9,0.905,0.222,0.75,0.57,0.278,0.731,7,3,2

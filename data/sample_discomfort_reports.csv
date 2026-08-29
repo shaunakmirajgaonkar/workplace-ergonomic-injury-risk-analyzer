@@ -1,0 +1,86 @@
+report_id,worker_id,report_date,body_region,severity,discomfort_days,status,suspected_driver
+D001,W019,2026-07-07,Elbow,High,5,Monitoring,Repetition
+D002,W021,2026-08-20,Shoulder,Moderate,2,Monitoring,Repetition
+D003,W004,2026-08-28,Lower Back,High,4,Monitoring,Repetition
+D004,W018,2026-07-13,Wrist/Hand,Moderate,5,Open,Posture
+D005,W006,2026-07-18,Shoulder,Mild,4,Monitoring,Unknown
+D006,W023,2026-08-07,Knee,Moderate,5,Closed,Force
+D007,W002,2026-06-28,Elbow,Moderate,4,Monitoring,Force
+D008,W020,2026-08-12,Upper Back,High,1,Closed,Duration
+D009,W002,2026-07-29,Knee,Moderate,5,Monitoring,Force
+D010,W029,2026-07-27,Neck,Moderate,5,Monitoring,Repetition
+D011,W009,2026-06-26,Wrist/Hand,Mild,4,Monitoring,Force
+D012,W008,2026-07-09,Neck,Mild,1,Monitoring,Duration
+D013,W011,2026-07-27,Wrist/Hand,Moderate,2,Open,Duration
+D014,W005,2026-08-26,Lower Back,Mild,5,Monitoring,Posture
+D015,W003,2026-07-06,Lower Back,Moderate,5,Monitoring,Repetition
+D016,W008,2026-08-11,Upper Back,High,1,Closed,Repetition
+D017,W018,2026-07-09,Lower Back,Mild,1,Monitoring,Unknown
+D018,W012,2026-08-17,Elbow,Mild,2,Monitoring,Repetition
+D019,W005,2026-08-07,Upper Back,Moderate,1,Monitoring,Posture
+D020,W029,2026-08-01,Shoulder,Mild,3,Monitoring,Duration
+D021,W018,2026-08-03,Lower Back,Moderate,4,Closed,Duration
+D022,W023,2026-08-15,Upper Back,Moderate,2,Open,Posture
+D023,W019,2026-08-07,Upper Back,Moderate,4,Closed,Repetition
+D024,W027,2026-08-02,Wrist/Hand,Moderate,1,Monitoring,Repetition
+D025,W028,2026-06-06,Knee,Mild,5,Open,Repetition
+D026,W001,2026-07-09,Elbow,Mild,4,Monitoring,Repetition
+D027,W024,2026-08-21,Lower Back,Mild,1,Open,Posture
+D028,W025,2026-07-16,Wrist/Hand,Mild,4,Closed,Posture
+D029,W029,2026-06-17,Wrist/Hand,Moderate,5,Closed,Duration
+D030,W002,2026-06-01,Knee,Moderate,1,Monitoring,Repetition
+D031,W004,2026-06-13,Lower Back,Mild,3,Monitoring,Repetition
+D032,W012,2026-08-16,Elbow,Mild,3,Closed,Repetition
+D033,W019,2026-07-15,Neck,Mild,1,Monitoring,Repetition
+D034,W020,2026-07-15,Elbow,Mild,3,Closed,Repetition
+D035,W004,2026-08-21,Elbow,High,3,Monitoring,Unknown
+D036,W020,2026-06-02,Elbow,Moderate,3,Closed,Posture
+D037,W030,2026-07-02,Upper Back,Mild,2,Closed,Force
+D038,W023,2026-06-27,Knee,Moderate,2,Closed,Posture
+D039,W009,2026-08-19,Lower Back,Moderate,4,Open,Duration
+D040,W020,2026-07-21,Lower Back,Mild,2,Open,Force
+D041,W001,2026-06-16,Upper Back,Moderate,2,Closed,Duration
+D042,W017,2026-06-05,Upper Back,Mild,4,Closed,Repetition
+D043,W016,2026-08-10,Knee,Mild,2,Open,Repetition
+D044,W021,2026-08-06,Neck,High,1,Open,Unknown
+D045,W008,2026-07-12,Wrist/Hand,Mild,5,Monitoring,Unknown
+D046,W003,2026-07-10,Shoulder,High,4,Monitoring,Posture
+D047,W007,2026-08-12,Upper Back,Moderate,4,Monitoring,Repetition
+D048,W010,2026-08-08,Lower Back,Moderate,1,Monitoring,Duration
+D049,W002,2026-08-13,Upper Back,Moderate,1,Monitoring,Duration
+D050,W024,2026-06-27,Shoulder,Mild,1,Monitoring,Posture
+D051,W001,2026-07-24,Neck,Moderate,1,Open,Duration
+D052,W014,2026-07-05,Elbow,Mild,1,Open,Repetition
+D053,W023,2026-08-23,Knee,Mild,5,Open,Duration
+D054,W030,2026-07-29,Wrist/Hand,Mild,4,Open,Repetition
+D055,W012,2026-06-24,Knee,Moderate,1,Closed,Posture
+D056,W012,2026-07-27,Wrist/Hand,High,5,Open,Duration
+D057,W004,2026-08-26,Knee,Mild,5,Closed,Force
+D058,W019,2026-06-27,Neck,High,3,Closed,Repetition
+D059,W008,2026-08-20,Knee,Moderate,1,Open,Repetition
+D060,W002,2026-08-19,Upper Back,High,3,Open,Force
+D061,W014,2026-07-12,Wrist/Hand,Mild,1,Closed,Force
+D062,W029,2026-07-17,Neck,High,4,Closed,Repetition
+D063,W006,2026-06-13,Elbow,Moderate,1,Monitoring,Posture
+D064,W007,2026-07-20,Upper Back,Mild,3,Open,Force
+D065,W018,2026-07-07,Upper Back,Mild,4,Monitoring,Force
+D066,W026,2026-07-31,Upper Back,Mild,2,Monitoring,Duration
+D067,W009,2026-07-26,Neck,Moderate,2,Monitoring,Posture
+D068,W015,2026-06-05,Upper Back,Moderate,3,Closed,Posture
+D069,W011,2026-07-10,Upper Back,Moderate,2,Closed,Repetition
+D070,W029,2026-07-10,Lower Back,Moderate,4,Monitoring,Posture
+D071,W027,2026-07-29,Neck,Mild,3,Closed,Duration
+D072,W022,2026-08-13,Upper Back,Moderate,2,Monitoring,Force
+D073,W030,2026-07-06,Lower Back,Mild,2,Closed,Posture
+D074,W022,2026-06-05,Elbow,Mild,4,Open,Posture
+D075,W011,2026-07-31,Knee,Moderate,4,Open,Force
+D076,W009,2026-08-04,Lower Back,Mild,5,Open,Repetition
+D077,W023,2026-07-28,Wrist/Hand,Mild,2,Open,Duration
+D078,W011,2026-08-08,Shoulder,Mild,4,Closed,Posture
+D079,W026,2026-07-10,Shoulder,Moderate,4,Closed,Force
+D080,W011,2026-06-18,Upper Back,High,4,Open,Repetition
+D081,W014,2026-08-01,Knee,High,4,Monitoring,Force
+D082,W020,2026-06-20,Wrist/Hand,High,5,Monitoring,Repetition
+D083,W023,2026-08-17,Lower Back,High,5,Monitoring,Force
+D084,W006,2026-08-14,Wrist/Hand,Moderate,2,Closed,Posture
+D085,W005,2026-08-13,Lower Back,Mild,4,Monitoring,Repetition
